@@ -492,3 +492,21 @@
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
   },
+  {
+    "id": "Shudder",
+    "name": "Shudder",
+    "category": "Streaming Service",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://raw.githubusercontent.com/yourrepo/services/main/Screambox.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  }
+]
